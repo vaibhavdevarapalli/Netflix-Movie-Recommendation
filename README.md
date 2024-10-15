@@ -1,5 +1,5 @@
-[Types of Recommendation Systems](![types_of_recomendation](https://github.com/user-attachments/assets/79b036d5-3930-4de4-ad72-4073237a33c1)
-)
+![types_of_recomendation](https://github.com/user-attachments/assets/a8a8e23b-ff9d-46cc-9dbd-15807b3036cb)
+
 
 # About the Project : Netflix-Movie-Recommendation
 

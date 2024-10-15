@@ -1,4 +1,5 @@
-![Types of Recommendation Systems](types_of_recomendation.png)
+![Types of Recommendation Systems](![Uploading types_of_recomendation.png…]()
+)
 
 # About the Project : Netflix-Movie-Recommendation
 
